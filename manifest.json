@@ -1,0 +1,20 @@
+{
+  "name": "PDF-HILFE-WE",
+  "short_name": "PDF-HILFE-WE",
+  "description": "Offline WE pdf helper",
+  "scope": "/we-pdf-pwa/",
+  "start_url": "/we-pdf-pwa/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/we-pdf-pwa/img/icon.png",
+      "type": "image/png",
+      "sizes": "700x700"
+    }
+  ],
+  "id": "we-pdf-pwa",
+  "dir": "ltr",
+  "lang": "de"
+}
