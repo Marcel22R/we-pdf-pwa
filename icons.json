@@ -1,12 +1,4 @@
 {
-  "name": "PDF-HILFE-WE",
-  "short_name": "PDF-HILFE-WE",
-  "description": "Offline WE pdf helper",
-  "scope": "/we-pdf-pwa/",
-  "start_url": "/we-pdf-pwa/",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
-  "display": "standalone",
   "icons": [
     {
       "src": "windows11/SmallTile.scale-100.png",
@@ -456,8 +448,5 @@
       "src": "ios/1024.png",
       "sizes": "1024x1024"
     }
-  ],
-  "id": "we-pdf-pwa",
-  "dir": "ltr",
-  "lang": "de"
+  ]
 }
